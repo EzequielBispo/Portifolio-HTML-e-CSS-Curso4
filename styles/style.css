@@ -86,6 +86,10 @@ body{
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
 }
+
+.apresentacao__links__navegacao_twitch{
+    display: none;
+}
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
 }
